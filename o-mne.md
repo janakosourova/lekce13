@@ -3,8 +3,13 @@ layout: page
 title: O mně
 permalink: /o-mne/
 ---
+Tak tady píšu něco o sobě.
+Na poslední hodině kurzu
+- A
+- B
 
-Tady napiš něco o sobě nebo o svém blogu!
+1. jednou
+2. dvakrát
 
 ---
 
